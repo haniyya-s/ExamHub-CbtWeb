@@ -1,0 +1,17 @@
+# Konfigurasi lokal dan rahasia
+.env
+.env.*
+!.env.example
+
+# Dependensi Composer
+vendor/
+
+# File sementara
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Pengaturan editor
+.vscode/
+.idea/
